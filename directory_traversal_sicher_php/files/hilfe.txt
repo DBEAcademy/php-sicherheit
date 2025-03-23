@@ -1,0 +1,2 @@
+Dies ist eine Hilfedatei.
+Beispiel zur sicheren Dateianzeige.

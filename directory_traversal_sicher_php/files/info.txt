@@ -1,0 +1,2 @@
+Dies ist eine Info-Datei.
+Nur Textdateien im 'files'-Verzeichnis sind erlaubt.
